@@ -1,5 +1,4 @@
-# TYUT_LaTeX_Template
-太原理工大学研究生毕业论文LaTeX模板 
+# TYUT_LaTeX_Template 太原理工大学研究生毕业论文LaTeX模板 
 ==========
 
 历史 
